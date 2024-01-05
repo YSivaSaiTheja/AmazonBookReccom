@@ -9,3 +9,10 @@ The recommendation system makes use of the following methods:
   - Dimensionality reduction techniques
   - Matrix Factorization
   - Neural network
+
+Worked on this project with the following members: 
+1) Mervyn Ho
+2) Bryan Woo
+3) Matthew
+4) Mei Lin
+5) Arjan Singh
